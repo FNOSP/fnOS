@@ -824,5 +824,12 @@
     "name": "fnOS-x86_64",
     "url": "http://thunder.liveupdate.fnnas.com:8080/x86_64/trim/fnos-1.1.26-1650.iso",
     "version": "1.1.26"
+  },
+  {
+    "arch": "x86_64",
+    "hash": "3930d568ba51f17cc903345cdbf7e5aa",
+    "name": "fnOS-x86_64",
+    "url": "http://thunder.liveupdate.fnnas.com:8080/x86_64/trim/fnos_Mainland-PE_x86_1.1.30_1315.iso",
+    "version": "1.1.30"
   }
 ]
