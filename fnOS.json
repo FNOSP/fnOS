@@ -400,6 +400,13 @@
   },
   {
     "arch": "aarch64",
+    "hash": "79279229cb39a25df721d61ba27c1d33",
+    "name": "树莓派 3/4/5",
+    "url": "http://thunder.liveupdate.fnnas.com:8080/arm/image/1.2.0203/bcm27xx/fnos_Mainland-PE_arm_1.2.0203_bcm27xx_2165.img.gz",
+    "version": "1.2.0203"
+  },
+  {
+    "arch": "aarch64",
     "hash": "d3b734505445db9a1b807d73c2394105",
     "name": "瑞莎  Cubie A5E",
     "url": "http://thunder.liveupdate.fnnas.com:8080/arm/trim/1.1.31/cubie-a5e/fnos_Mainland-PE_arm_1.1.31_cubie-a5e_1351.img.gz",
